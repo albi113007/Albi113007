@@ -18,10 +18,15 @@ I'am albin a software devloper based in kerala.
 
 I Mostly work on Front End Stuff - React, Next Js, Typescript, Tailwind CSS and a bit of Designing Responsive UI Interfaces With Tool Like Figma
 
+This is a Fresh Profile Wher I'll be Uploading some Smaller Projects, Experiments, and Things I'am Currently working on. Everything Here Is Build From Scratch.
+
+TOOLS & TECH
+
 - HTML5  
-- CSS3 / Tailwind CSS  
+- CSS3 / Boostrap
+- Tailwind CSS  
 - JavaScript  
 - React / Next.js  
 - TypeScript
-
+- Figma
 
