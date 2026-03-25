@@ -20,7 +20,9 @@ I Mostly work on Front End Stuff - React, Next Js, Typescript, Tailwind CSS and 
 
 This is a Fresh Profile Wher I'll be Uploading some Smaller Projects, Experiments, and Things I'am Currently working on. Everything Here Is Build From Scratch.
 
-TOOLS & TECH
+---
+
+##TOOLS & TECH
 
 - HTML5  
 - CSS3 / Boostrap
