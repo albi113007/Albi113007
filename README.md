@@ -14,56 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 Project Name
+I'am albin a software devloper based in kerala.
 
-## 📌 Overview
-A brief description of your project.  
-Explain what it does and the problem it solves in 2–3 lines.
+I Mostly work on Front End Stuff - React, Next Js, Typescript, Tailwind CSS and a bit of Designing Responsive UI Interfaces With Tool Like Figma
 
-> Example:  
-> A responsive web application that allows users to manage daily tasks efficiently with a clean and intuitive UI.
-
----
-
-## 🛠️ Tech Stack
 - HTML5  
 - CSS3 / Tailwind CSS  
-- JavaScript (ES6+)  
+- JavaScript  
 - React / Next.js  
-- TypeScript (if used)
+- TypeScript
 
----
 
-## ✨ Features
-- Responsive design (mobile-friendly)
-- Clean and modern UI
-- Fast performance
-- Reusable components
-- (Add real features of your project)
-
----
-
-## 📸 Screenshots
-(Add images or GIFs of your project here)
-
----
-
-## 🔗 Live Demo
-👉 [View Live Project](#)
-
----
-
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/project-name.git
-
-# Navigate to project folder
-cd project-name
-
-# Install dependencies
-npm install
-
-# Run the project
-npm run dev
