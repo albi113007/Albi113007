@@ -22,7 +22,7 @@ This is a Fresh Profile Wher I'll be Uploading some Smaller Projects, Experiment
 
 ---
 
-##TOOLS & TECH
+## TOOLS & TECH
 
 - HTML5  
 - CSS3 / Boostrap
