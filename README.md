@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm albin a software developer based in kerala.
 
-I Mostly work on Front End Stuff - React, Next Js, Typescript, Tailwind CSS and a bit of Designing Responsive UI Interfaces With Tool Like Figma
+I Mostly work on Front End Stuff and a bit of Designing Responsive UI Interfaces With Tool Like Figma
 
 This is a Fresh Profile Where I'll be Uploading some Smaller Projects, Experiments, and Things I'am Currently working on. Everything Here Is Build From Scratch.
 
