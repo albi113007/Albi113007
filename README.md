@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/albin-b-7348143a7" target="_blank">
+  <a href="http://www.linkedin.com/in/albin-b-7348143a7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/creo_soft?igsh=MTc0eGt4d2V3N2w0cQ==" target="_blank">
